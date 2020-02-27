@@ -5,3 +5,7 @@
 .idea/
 _site
 /vendor
+
+# Link checker artifacts
+bin/
+tmp/

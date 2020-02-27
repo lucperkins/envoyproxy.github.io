@@ -64,5 +64,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - docs/
+  - bin
+  - docs
   - vendor
+  - build-website.sh
+  - docker-compose.yml
+  - netlify.toml
+  - README.md
+  - CNAME
